@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mall name="Les Quatre Temps" address="La défense, Paris, France">
+	<shops>
+		<shop name="EXIST">
+			<products>
+				<product name="Pull" price="12.55"/>
+				<product name="Chemise" price="22.30"/>
+				<product name="Pantalon" price="45.00"/>
+				<product name="Robe" price="20.99"/>
+				<product name="Chaussure" price="88.94"/>
+			</products>
+			<customers>
+				<customer name="Alain" email="alain@gmail.com" money="6600.95">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Djo" email="djo@gmail.com" money="7000">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Joel" email="joel@gmail.com" money="3200.55">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+			</customers>
+		</shop>
+		<shop name="CELIO">
+			<products>
+				<product name="Pull" price="45.55"/>
+				<product name="Chemise" price="50.80"/>
+				<product name="Pantalon" price="55.00"/>
+				<product name="Chaussure" price="102.00"/>
+			</products>
+			<customers>
+				<customer name="Martin" email="martin@gmail.com" money="6600.95">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Bernard" email="bernard@gmail.com" money="7000">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Thomas" email="thomas@gmail.com" money="3200.55">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+			</customers>
+		</shop>
+		<shop name="BRICE">
+			<products>
+				<product name="Pull" price="25.25"/>
+				<product name="Chemise" price="30.00"/>
+				<product name="Pantalon" price="50.50"/>
+			</products>
+			<customers>
+				<customer name="Robert" email="robert@gmail.com" money="6600.95">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Richard" email="richard@gmail.com" money="7000">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="David" email="david@gmail.com" money="3200.55">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+			</customers>
+		</shop>
+		<shop name="ALAIN FIGARET">
+			<products>
+				<product name="Manteau" price ="349.45"/>
+				<product name="Cash Cole" price ="20.45"/>
+			</products>
+			<customers>
+				<customer name="Girard" email="girard@gmail.com" money="6600.95">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Durand" email="durand@gmail.com" money="7000">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Leroy" email="leroy@gmail.com" money="3200.55">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+			</customers>
+		</shop>
+		<shop name="ESPRIT">
+			<products>
+				<product name="Pull" price="35.60"/>
+				<product name="Chemise" price="40.40"/>
+				<product name="Pantalon" price="90.00"/>
+				<product name="Chaussure" price="55.99"/>
+			</products>
+			<customers>
+				<customer name="Dupont" email="dupond@gmail.com" money="6600.95">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Roux" email="roux@gmail.com" money="7000">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Bertrand" email="bertrand@gmail.com" money="3200.55">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+			</customers>
+		</shop>
+		<shop name="DECATHLON">
+			<products>
+				<product name="Sac a dot" price="99.55"/>
+				<product name="Talkie Wolkie" price="102.66"/>
+				<product name="Coudière" price="32.32"/>
+				<product name="Lunette Soleil" price="50.50"/>
+				<product name="Caméra" price="88.00"/>
+			</products>
+			<customers>
+				<customer name="Martin" email="martin@gmail.com" money="6600.95">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Dubois" email="dubois@gmail.com" money="7000">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+				<customer name="Fournier" email="fournier@gmail.com" money="3200.55">
+					<item name="small table" />
+					<item name="plate" />
+					<item name="fork" />
+				</customer>
+			</customers>
+		</shop>
+	</shops>
+</mall>
